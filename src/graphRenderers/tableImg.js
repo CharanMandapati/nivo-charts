@@ -1,0 +1,133 @@
+import * as React from "react";
+
+const TableImg = () => {
+	return (
+		<div className="graphContainer">
+			<svg
+				width="1000"
+				height="600"
+				viewBox="0 0 290 155"
+				fill="none"
+				xmlns="http://www.w3.org/2000/svg"
+			>
+				<rect x="1" y="31.7129" width="95.999" height="30.4615" fill="white" />
+				<rect
+					x="96.9971"
+					y="31.7129"
+					width="95.999"
+					height="30.4615"
+					fill="white"
+				/>
+				<rect
+					x="193.002"
+					y="31.7129"
+					width="95.999"
+					height="30.4615"
+					fill="white"
+				/>
+				<rect x="1" y="62.1741" width="95.999" height="30.4615" fill="white" />
+				<rect
+					x="96.9971"
+					y="62.1741"
+					width="95.999"
+					height="30.4615"
+					fill="white"
+				/>
+				<rect
+					x="193.002"
+					y="62.1741"
+					width="95.999"
+					height="30.4615"
+					fill="white"
+				/>
+				<rect x="1" y="92.6357" width="95.999" height="30.4615" fill="white" />
+				<rect
+					x="96.9971"
+					y="92.6357"
+					width="95.999"
+					height="30.4615"
+					fill="white"
+				/>
+				<rect
+					x="193.002"
+					y="92.6357"
+					width="95.999"
+					height="30.4615"
+					fill="white"
+				/>
+				<rect x="1" y="123.096" width="95.999" height="30.4615" fill="white" />
+				<rect
+					x="96.9971"
+					y="123.096"
+					width="95.999"
+					height="30.4615"
+					fill="white"
+				/>
+				<rect
+					x="193.002"
+					y="123.096"
+					width="95.999"
+					height="30.4615"
+					fill="white"
+				/>
+				<rect
+					x="0.754883"
+					y="0.515625"
+					width="288.742"
+					height="31.6967"
+					fill="#F4F9FF"
+					stroke="#2739DD"
+				/>
+				<line
+					x1="1"
+					y1="61.5496"
+					x2="288.997"
+					y2="61.5496"
+					stroke="#2739DD"
+					stroke-width="0.777778"
+				/>
+				<line
+					x1="97.1609"
+					y1="153.441"
+					x2="97.1609"
+					y2="31.7127"
+					stroke="#2739DD"
+					stroke-width="0.777778"
+				/>
+				<line
+					x1="192.313"
+					y1="153.441"
+					x2="192.313"
+					y2="31.7127"
+					stroke="#2739DD"
+					stroke-width="0.777778"
+				/>
+				<line
+					x1="1"
+					y1="92.0115"
+					x2="288.997"
+					y2="92.0115"
+					stroke="#2739DD"
+					stroke-width="0.777778"
+				/>
+				<line
+					x1="1"
+					y1="122.473"
+					x2="288.997"
+					y2="122.473"
+					stroke="#2739DD"
+					stroke-width="0.777778"
+				/>
+				<rect
+					x="0.754883"
+					y="0.515625"
+					width="288.742"
+					height="153.425"
+					stroke="#2739DD"
+				/>
+			</svg>
+		</div>
+	);
+};
+
+export default TableImg;

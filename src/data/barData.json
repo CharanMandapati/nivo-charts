@@ -1,0 +1,30 @@
+[
+	{
+		"day": "Monday",
+		"degrees": 59
+	},
+	{
+		"day": "Tuesday",
+		"degrees": 61
+	},
+	{
+		"day": "Wednesday",
+		"degrees": 55
+	},
+	{
+		"day": "Thursday",
+		"degrees": 78
+	},
+	{
+		"day": "Friday",
+		"degrees": 71
+	},
+	{
+		"day": "Saturday",
+		"degrees": 56
+	},
+	{
+		"day": "Sunday",
+		"degrees": 67
+	}
+]

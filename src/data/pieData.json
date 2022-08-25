@@ -1,0 +1,27 @@
+[
+	{
+		"id": "java",
+		"label": "java",
+		"value": 195
+	},
+	{
+		"id": "erlang",
+		"label": "erlang",
+		"value": 419
+	},
+	{
+		"id": "ruby",
+		"label": "ruby",
+		"value": 407
+	},
+	{
+		"id": "haskell",
+		"label": "haskell",
+		"value": 474
+	},
+	{
+		"id": "go",
+		"label": "go",
+		"value": 71
+	}
+]
